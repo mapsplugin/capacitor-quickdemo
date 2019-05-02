@@ -1,0 +1,9 @@
+{
+  "appId": "com.example.app2",
+  "appName": "capacitor-quickdemo",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "GOOGLE_MAPS_ANDROID_API_KEY": "AIzaSyAQb8UXtwwrW-R3zzOWgEDqvMNuA6IVkxs",
+  "GOOGLE_MAPS_IOS_API_KEY": "AIzaSyAQb8UXtwwrW-R3zzOWgEDqvMNuA6IVkxs"
+}

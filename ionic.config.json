@@ -1,5 +1,7 @@
 {
   "name": "capacitor-quickdemo",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
